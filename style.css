@@ -1,0 +1,70 @@
+body {
+    background-color: #fefee2;
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma;
+	color: white;
+}
+
+.meteo	{
+	background-color: rgb(92, 107, 248);
+	width: 400px;
+	height:600px;
+	border-radius: 10px;
+	box-shadow: 10px 5px 5px gray;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1	{
+	border-bottom: solid 1px white;
+	font-size: 25px;
+	text-align: center;
+	padding: 16px 15px;
+	}
+
+p, img {
+	text-align: center;
+}
+
+img	{
+	width: 150px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.temp {
+	font-size: 60px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.city {
+	font-size:25px;
+}
+
+
+.bottom {
+	margin: 0 0;
+	padding: 0 0;
+}
+
+.bottom-left {
+	display: inline-block;
+	width: 48%;
+	margin-right: auto;
+	margin-left: 2%;
+}
+
+.bottom-right {
+	display: inline-block;
+	width: 48%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+hr {
+	border-color: white; 
+}
